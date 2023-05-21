@@ -1,5 +1,5 @@
 {
   "code": 77,
-  "name": "20230520#1",
-  "desc": "* [通用]\n* 統整 okhttp \n* [EXO]\n* 連線改用 okhttp"
+  "name": "20230521#2",
+  "desc": "* [通用]\n* 新增 DoH 設定"
 }
